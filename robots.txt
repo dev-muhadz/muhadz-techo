@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dev-muhadz.github.io/sitemap.xml
+Sitemap: https://dev-muhadz.github.io/muhadz-techo/sitemap.xml
