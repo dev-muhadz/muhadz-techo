@@ -1,1 +1,0 @@
-PR note: Identity positioning for Mohammed Sani Yahaya / Muhadz Techo, plus a small mobile navigation icon fix. The hamburger now renders three visible lines, and the open state can correctly form an X using the existing CSS. No visual redesign or changes to main.css/js/main.js.
